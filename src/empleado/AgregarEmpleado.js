@@ -28,7 +28,6 @@ export default function AgregarEmpleado() {
         navega('/')
     }
 
-
     return (
         <div className="container">
             <h3 className="bg-secondary w-100 text-center text-light p-3">
